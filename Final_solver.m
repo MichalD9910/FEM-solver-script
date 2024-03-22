@@ -1,4 +1,4 @@
-%"""Final_solver: Programm which solves heat conduction equations in two 
+%"""Final_solver: Programme which solves heat conduction equations in two 
 % dimension figure domain, using rectangular elements with 9 nodes"""
  
 %__name__ = "Final_solver"
